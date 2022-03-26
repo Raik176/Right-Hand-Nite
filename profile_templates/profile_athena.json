@@ -1,0 +1,195 @@
+{
+  "_id": "Raik176",
+  "Update": "profile by tim",
+  "created": "2022-02-05T14:44:19.376Z",
+  "updated": "2022-02-05T14:44:19.379Z",
+  "rvn": 134,
+  "wipeNumber": 1,
+  "accountId": "Raik176",
+  "profileId": "athena",
+  "version": "neonite_2",
+  "items": {
+    "sandbox_loadout": {
+      "templateId": "CosmeticLocker:cosmeticlocker_athena",
+      "attributes": {
+        "locker_slots_data": {
+          "slots": {
+            "Pickaxe": {
+              "items": [
+                ""
+              ],
+              "activeVariants": [
+                {
+                  "variants": [
+                    {
+                      "channel": "Particle",
+                      "active": "Particle1",
+                      "owned": []
+                    }
+                  ]
+                }
+              ]
+            },
+            "Dance": {
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "activeVariants": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+              ]
+            },
+            "Glider": {
+              "items": [
+                ""
+              ],
+              "activeVariants": [
+                {}
+              ]
+            },
+            "Character": {
+              "items": [
+                ""
+              ],
+              "activeVariants": [
+                {}
+              ]
+            },
+            "Backpack": {
+              "items": [
+                ""
+              ],
+              "activeVariants": [
+                {}
+              ]
+            },
+            "ItemWrap": {
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "activeVariants": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+              ]
+            },
+            "LoadingScreen": {
+              "items": [
+                ""
+              ],
+              "activeVariants": [
+                {}
+              ]
+            },
+            "MusicPack": {
+              "items": [
+                ""
+              ],
+              "activeVariants": [
+                {}
+              ]
+            },
+            "SkyDiveContrail": {
+              "items": [
+                ""
+              ],
+              "activeVariants": [
+                {}
+              ]
+            }
+          }
+        },
+        "use_count": 1,
+        "banner_icon_template": "",
+        "locker_name": "",
+        "banner_color_template": "",
+        "item_seen": false,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "d4195d4e-2913-429b-86da-91c7e0f8fdc7": {
+      "templateId": "VictoryCrown:defaultvictorycrown",
+      "attributes": {
+        "victory_crown_account_data": {
+          "has_victory_crown": true,
+          "data_is_valid_for_mcp": true,
+          "total_victory_crowns_bestowed_count": 9999,
+          "total_royal_royales_achieved_count": 9999
+        },
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "past_seasons": [
+        {
+          "seasonNumber": 12,
+          "numWins": 0,
+          "numHighBracket": 0,
+          "numLowBracket": 0,
+          "seasonXp": 0,
+          "seasonLevel": 9999,
+          "bookXp": 0,
+          "bookLevel": 9999,
+          "purchasedVIP": true
+        }
+      ],
+      "season_match_boost": 0,
+      "loadouts": [
+        "sandbox_loadout"
+      ],
+      "rested_xp_overflow": 0,
+      "mfa_reward_claimed": true,
+      "quest_manager": {},
+      "book_level": 999,
+      "season_num": 20.0,
+      "season_update": 0,
+      "book_xp": 1,
+      "permissions": [],
+      "book_purchased": true,
+      "lifetime_wins": 9999,
+      "party_assist_quest": "",
+      "purchased_battle_pass_tier_offers": [],
+      "rested_xp_exchange": 0.333,
+      "level": 999,
+      "xp_overflow": 0,
+      "rested_xp": 0,
+      "rested_xp_mult": 0,
+      "accountLevel": 18981,
+      "competitive_identity": {},
+      "inventory_limit_bonus": 0,
+      "last_applied_loadout": "sandbox_loadout",
+      "daily_rewards": {},
+      "xp": 0,
+      "season_friend_match_boost": 1,
+      "active_loadout_index": 0
+    }
+  },
+  "commandRevision": 0
+}

@@ -1,0 +1,48 @@
+{
+  "shop": {
+    "background": "night.png",
+    "updateAuto": true,
+    "customSections": [
+      {
+        "background": "sleek.png",
+        "id": "dbg",
+        "displayName": "Debug Stuff",
+        "showTimer": false,
+        "priority": 0
+      }
+    ],
+    "customShopItems": [
+        {
+          "itemId": "AthenaCharacter:CID_525_Athena_Commando_F_LemonLime",
+          "meta": {
+            "TileSize": "Normal",
+            "SectionId": "dbg",
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_525_Athena_Commando_F_LemonLime.DAv2_CID_525_Athena_Commando_F_LemonLime"
+          },
+          "grants": [
+            "AthenaCharacter:CID_525_Athena_Commando_F_LemonLime"
+          ],
+          "priority": -2
+        },
+        {
+          "itemId": "DAv2_Bundle_Featured_Sleek",
+          "meta": {
+            "TileSize": "DoubleWide",
+            "SectionId": "SilkSonic",
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Sleek.DAv2_Bundle_Featured_Sleek"
+          },
+          "isBundle": true,
+          "grants": [
+            "AthenaCharacter:CID_A_335_Athena_Commando_M_SleekGlasses_8SYX2",
+            "AthenaCharacter:CID_A_334_Athena_Commando_M_Sleek_UO6KF",
+            "AthenaBackpack:BID_944_Sleek_7PFGZ",
+            "AthenaPickaxe:Pickaxe_ID_745_SleekMale_ECRL0",
+            "AthenaPickaxe:Pickaxe_ID_744_SLeekGlassesMale_ID69U",
+            "AthenaDance:EID_Sleek_S2OCU",
+            "AthenaMusicPack:MusicPack_122_Sleek_3ST6M"
+          ],
+          "priority": -3
+        }
+    ]
+  }
+}

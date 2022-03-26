@@ -1,0 +1,43 @@
+{
+    "current": [{
+        "id": "{party}",
+        "created_at": "{date}",
+        "updated_at": "{date}",
+        "config": {
+            "type": "DEFAULT",
+            "joinability": "INVITE_AND_FORMER",
+            "discoverability": "INVITED_ONLY",
+            "sub_type": "default",
+            "max_size": 16,
+            "invite_ttl": 14400,
+            "join_confirmation": true
+        },
+        "members": [{
+            "account_id": "{accountId}",
+            "meta": {
+                "urn:epic:member:dn_s": "{accountId}"
+            },
+            "connections": [{
+                "id": "",
+                "connected_at": "{date}",
+                "updated_at": "{date}",
+                "yield_leadership": false,
+                "meta": {
+                    "urn:epic:conn:platform_s": "WIN",
+                    "urn:epic:conn:type_s": "game"
+                }
+            }],
+            "revision": 0,
+            "updated_at": "{date}",
+            "joined_at": "{date}",
+            "role": "CAPTAIN"
+        }],
+        "applicants": [],
+        "meta": {},
+        "invites": [],
+        "revision": 0
+    }],
+    "pending": [],
+    "invites": [],
+    "pings": []
+}

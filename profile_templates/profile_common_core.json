@@ -1,0 +1,29 @@
+{
+  "_id": "Raik176",
+  "created": "2022-01-15T12:05:51.065Z",
+  "updated": "2022-01-21T20:28:30.546Z",
+  "rvn": 23,
+  "wipeNumber": 1,
+  "accountId": "Raik176",
+  "profileId": "common_core",
+  "version": "neonite_2",
+  "devAccount": false,
+  "items": {
+    "Currency:MtxPurchased": {
+      "attributes": {
+        "platform": "EpicPC"
+      },
+      "quantity": 100000,
+      "templateId": "Currency:MtxPurchased"
+    }
+  },
+  "stats": {
+    "attributes": {
+      "mtx_affiliate": "Neonite",
+      "current_mtx_platform": "EpicPC",
+      "mtx_purchase_history": {},
+      "mtx_affiliate_set_time": "2022-01-21T20:28:30.545Z"
+    }
+  },
+  "commandRevision": 1
+}
